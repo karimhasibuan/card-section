@@ -2,4 +2,4 @@
 
 This web only use HTML & CSS for make Card Section.
 
-This reference from: [Reference](https://codepen.io/seyedi/pen/zYoeLEv)
+This reference from: [Reference](https://codepen.io/eyupucmaz/pen/oNbeXOb)
